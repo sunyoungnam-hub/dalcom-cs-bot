@@ -1,0 +1,10 @@
+# 고객 원본 데이터 제외
+*.xlsx
+*.xls
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
